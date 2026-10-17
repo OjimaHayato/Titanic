@@ -1,0 +1,14 @@
+# Kaggle のデータと提出ファイル（コンペのデータは再配布しない）
+data/
+submissions/
+
+# Python
+.venv/
+__pycache__/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
